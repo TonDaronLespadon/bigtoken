@@ -1,4 +1,5 @@
 #modules install
+
 $pkg update && pkg upgrade -y
 
 $pkg install nano
@@ -13,11 +14,9 @@ $gem install lolcat
 
 $pkg install toilet
 
-#edit config.php
-$nano config.php
+#edit config.php $nano config.php
+
 
 #run bot.php
 
 $php bot.php
-
-#indoneaisa location (+62)
