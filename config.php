@@ -1,5 +1,5 @@
 <?php
 //Email
-$email = "XXXX@gmail.com";
+$email = "cretomagaila@gmail.com";
 //Passwoard
-$pass  = "XXXXX";
+$pass  = "Momomomo123_";
